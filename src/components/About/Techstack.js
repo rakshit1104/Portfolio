@@ -10,6 +10,7 @@ import {
 } from "react-icons/di";
 import {
   SiSolidity,
+  SiBootstrap,
   SiMysql,
 } from "react-icons/si";
 
@@ -35,10 +36,10 @@ function Techstack() {
         <SiSolidity />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMysql />
+        <SiBootstrap />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <SiMysql />
       </Col>
     </Row>
   );

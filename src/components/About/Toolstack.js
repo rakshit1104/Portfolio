@@ -17,6 +17,9 @@ function Toolstack() {
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <SiGithub />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
