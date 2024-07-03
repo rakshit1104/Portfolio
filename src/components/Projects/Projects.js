@@ -59,6 +59,7 @@ function Projects() {
               title="TextUtils"
               description="TextUtils is a word and a character counter utility which can be used to manipulate your text in the way you want. You can covert your text from UpperCase to LowerCase and vice-versa, clear text, and copy the manipulated text"
               ghLink="https://github.com/rakshit1104/TextUtils"
+              demoLink="https://textutils-e0my.onrender.com"
             />
           </Col>
 
