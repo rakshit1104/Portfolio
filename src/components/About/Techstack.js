@@ -5,7 +5,6 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiGit,
   DiJava,
 } from "react-icons/di";
 import {

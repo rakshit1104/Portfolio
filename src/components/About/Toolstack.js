@@ -1,6 +1,9 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
+  DiGit,
+} from "react-icons/di";
+import {
   SiVisualstudiocode,
   SiVercel,
   SiWindows,
