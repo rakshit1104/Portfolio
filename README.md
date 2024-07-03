@@ -6,9 +6,10 @@ This project was built using these technologies.
 
 - React.js
 - Node.js
+- HTML
 - CSS3
-- VsCode
-- Vercel
+- VS Code
+- Render
 
 ## Features
 
